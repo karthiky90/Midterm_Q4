@@ -6,4 +6,6 @@ line5
 line6
 conflict1
 conflict2
+line9
+line10
 
